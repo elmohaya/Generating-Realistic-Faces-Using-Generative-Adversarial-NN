@@ -1,1 +1,1 @@
-# Generating-Realistic-Faces-Using-Generative-Adversarial-NN
+# Generating Realistic Faces Using Generative Adversarial Nets
